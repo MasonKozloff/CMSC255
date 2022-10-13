@@ -1,1 +1,1 @@
-These files are code I wrote for my CMSC 255 class. It includes labs and projects I did for my 1st year of programming.
+These files are projects I've worked on at VCU. Most of them include coding proejcts
